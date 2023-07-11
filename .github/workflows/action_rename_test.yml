@@ -1,5 +1,5 @@
 name: github-actions-rename-test
-run-name: ${{ github.actor }} is learning GitHub Actions
+run-name: ${{ github.actor }} is learning rename Actions
 on: [push]
 jobs:
   check-bats-version:
